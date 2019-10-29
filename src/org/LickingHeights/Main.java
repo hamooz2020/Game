@@ -48,12 +48,6 @@ public class Main {
 
 
 
-//        pickedNumber = (int) (Math.random()*2);
-
- //       for(int i = 0; i <20; i++) {
- //           pickedNumber = (int) (Math.random()*30)+1;
- //           System.out.println(pickedNumber);
-//
         }
     }
 
