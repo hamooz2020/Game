@@ -8,6 +8,7 @@ public class Main {
 	// write your code here
         int random;
         int pickedNumber;
+        int answer;
 
         Scanner keyboard;
         keyboard = new Scanner(System.in);
@@ -33,7 +34,6 @@ public class Main {
                 if(pickedNumber == random) {
                     System.out.println("You are correct!");
                 }
-                
 
         }
 
